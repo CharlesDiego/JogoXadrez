@@ -1,4 +1,4 @@
-package BoardGame;
+package boardgame;
 
 public class Piece {
 
@@ -15,7 +15,5 @@ public class Piece {
 		return board;
 	}
 	
-	
-	
-	
+			
 }
